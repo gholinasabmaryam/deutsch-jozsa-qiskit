@@ -69,11 +69,9 @@ jupyter notebook
 
 3. **Run the examples**
 
-Open the notebook or script, execute cells sequentially, and view:
-
    * Oracle circuits
    * Full Deutsch–Jozsa algorithm circuit
-   * Simulation results and histograms
+   * Simulation results and histograms.
 
 ---
 
