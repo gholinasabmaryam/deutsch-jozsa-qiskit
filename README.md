@@ -78,6 +78,3 @@ Open the notebook or script, execute cells sequentially, and view:
 * **NumPy & Matplotlib** – for math and visualization tools
 
 ```
-
-Would you like me to also add a **GitHub badges section** (e.g., Python version, Qiskit, license) at the top to make it look more professional?
-```
