@@ -1,6 +1,6 @@
 # deutsch-joza-algorithm
 
-This repository contains my Python implementation of the Deutsch–Jozsa Algorithm using IBM Qiskit. The algorithm is one of the foundational quantum computing examples, demonstrating an exponential speed-up over classical computation for distinguishing between constant and balanced functions.
+This repository contains my Python implementation of the Deutsch–Jozsa Algorithm using **IBM Qiskit**. The algorithm is one of the foundational quantum computing examples, demonstrating an exponential speed-up over classical computation for distinguishing between constant and balanced functions.
 
 ---
 
