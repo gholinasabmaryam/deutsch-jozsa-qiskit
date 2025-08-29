@@ -74,8 +74,8 @@ Framework: IBM Qiskit
 
 ## Acknowledgments
 
-IBM Qiskit team – for the open-source framework
-NumPy & Matplotlib – for math and visualization tools
+**IBM Qiskit team** – for the open-source framework
+**NumPy & Matplotlib** – for math and visualization tools
 
 ```
 
