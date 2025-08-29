@@ -32,7 +32,7 @@ Applies Hadamard and measures to distinguish constant vs. balanced oracles
 ### Execution & Results
 
 Runs with either oracle using Qiskit Aer  
-Outputs histograms showing deterministic results for constant oracles and 50/50 results for balanced oracles  
+Outputs histograms showing deterministic results for constant oracles and 50/50 results for balanced oracles(it can be changed)
 
 ---
 
