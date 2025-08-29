@@ -6,10 +6,10 @@ This repository contains my Python implementation of the Deutsch–Jozsa Algorit
 
 ## Motivation
 
-* Understand the Deutsch–Jozsa Algorithm in practice  
-* Learn how to build constant and balanced quantum oracles  
-* Apply Hadamard gates, barriers, and controlled operations in circuit design  
-* Simulate circuits with Qiskit Aer and interpret measurement histograms  
+* Understand the **Deutsch–Jozsa Algorithm** in practice  
+* Learn how to build **constant and balanced quantum oracles**  
+* Apply **Hadamard gates, barriers, and controlled operations** in circuit design  
+* **Simulate circuits** with Qiskit Aer and interpret measurement histograms  
 * Create a clear reference for learning quantum algorithms  
 
 ---
