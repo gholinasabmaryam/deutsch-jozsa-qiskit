@@ -68,7 +68,6 @@ jupyter notebook
 ```
 
 3. **Run the examples**
-
 Open the notebook or script, execute cells sequentially, and view:
 
    * Oracle circuits
