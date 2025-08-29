@@ -46,20 +46,20 @@ pip install qiskit-textbook
 
 ## Getting Started
 
-Clone the repository
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/yourusername/deutsch-joza-algorithm.git
 cd deutsch-joza-algorithm
 ```
 
-Launch Jupyter Notebook
+2. **Launch Jupyter Notebook**
 
 ```bash
 jupyter notebook
 ```
 
-Run the examples
+3. **Run the examples**
 
 Open the notebook or script, execute cells sequentially, and view:
 
