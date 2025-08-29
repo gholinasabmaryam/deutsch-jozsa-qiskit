@@ -81,7 +81,7 @@ Open the notebook or script, execute cells sequentially, and view:
 
 * **Course:** *Beginner’s Guide to Practical Quantum Computing with IBM Qiskit* (Coursera)
 * **Provider:** Packt Publishing & IBM Quantum
-* 
+
 ---
 
 ## Acknowledgments
