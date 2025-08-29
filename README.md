@@ -88,6 +88,4 @@ Open the notebook or script, execute cells sequentially, and view:
 
 * **IBM Qiskit team** – the open-source framework
 * **NumPy & Matplotlib** – math & visualization tools
-```
-
 ---
