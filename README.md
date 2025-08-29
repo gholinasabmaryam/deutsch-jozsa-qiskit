@@ -69,13 +69,13 @@ Open the notebook or script, execute cells sequentially, and view:
 
 ## Reference
 
-Algorithm: Deutsch–Jozsa – an early example of quantum advantage
-Framework: IBM Qiskit
+* **Course:** *Beginner’s Guide to Practical Quantum Computing with IBM Qiskit* (Coursera)
+* **Provider:** Packt Publishing & IBM Quantum
 
 ## Acknowledgments
 
-**IBM Qiskit team** – for the open-source framework
-**NumPy & Matplotlib** – for math and visualization tools
+* **IBM Qiskit team** – for the open-source framework
+* **NumPy & Matplotlib** – for math and visualization tools
 
 ```
 
